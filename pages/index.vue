@@ -2,27 +2,27 @@
   <div>
     <picture>
       <source 
-        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?auto=compress,format&amp;rect=0,0,396,256&amp;w=396&amp;h=256" 
+        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?auto=compress,format&rect=0,0,396,256&w=396&h=256" 
         media="(min-width: 960px)" 
         data-loaded="true"
       >
       <source
-        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?auto=compress,format&amp;rect=16,0,364,256&amp;w=296&amp;h=208"
+        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?auto=compress,format&rect=16,0,364,256&w=296&h=208"
         media="(min-width: 768px)"
         data-loaded="true"
       >
       <source
-        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?auto=compress,format&amp;rect=0,0,234,209&amp;w=234&amp;h=209"
+        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?auto=compress,format&rect=0,0,234,209&w=234&h=209"
         media="(min-width: 480px)"
         data-loaded="true"
       >
       <source
-        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?auto=compress,format&amp;rect=0,4,234,199&amp;w=216&amp;h=184"
+        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?auto=compress,format&rect=0,4,234,199&w=216&h=184"
         media="(min-width: 320px)"
         data-loaded="true"
       >
       <img
-        src="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?auto=compress,format&amp;rect=0,0,396,256&amp;w=396&amp;h=256"
+        src="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?auto=compress,format&rect=0,0,396,256&w=396&h=256"
         alt="Speedy seating in just 7 days"
         data-testid="img"
         class="dw-1345uxr-LazyImg eulyh3c0"
@@ -31,27 +31,27 @@
     </picture>
     <picture>
       <source 
-        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?ch=width,dpr&amp;auto=compress,format&amp;rect=0,0,396,256&amp;w=396&amp;h=256" 
+        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?ch=width,dpr&auto=compress,format&rect=0,0,396,256&w=396&h=256" 
         media="(min-width: 960px)" 
         data-loaded="true"
       >
       <source
-        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?ch=width,dpr&amp;auto=compress,format&amp;rect=16,0,364,256&amp;w=296&amp;h=208"
+        srcset="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?ch=width,dpr&auto=compress,format&rect=16,0,364,256&w=296&h=208"
         media="(min-width: 768px)"
         data-loaded="true"
       >
       <source
-        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?ch=width,dpr&amp;auto=compress,format&amp;rect=0,0,234,209&amp;w=234&amp;h=209"
+        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?ch=width,dpr&auto=compress,format&rect=0,0,234,209&w=234&h=209"
         media="(min-width: 480px)"
         data-loaded="true"
       >
       <source
-        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?ch=width,dpr&amp;auto=compress,format&amp;rect=0,4,234,199&amp;w=216&amp;h=184"
+        srcset="https://images.prismic.io/dunelm-prod/9fcc9b61-d651-484b-9c07-b2f76bec2b9c_WK50+HP_asset06b.jpg?ch=width,dpr&auto=compress,format&rect=0,4,234,199&w=216&h=184"
         media="(min-width: 320px)"
         data-loaded="true"
       >
       <img
-        src="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?ch=width,dpr&amp;auto=compress,format&amp;rect=0,0,396,256&amp;w=396&amp;h=256"
+        src="https://images.prismic.io/dunelm-prod/07106050-62f0-40f5-abf6-bd2d7a3992e7_WK50+HP_asset06a.jpg?ch=width,dpr&auto=compress,format&rect=0,0,396,256&w=396&h=256"
         alt="Speedy seating in just 7 days"
         data-testid="img"
         class="dw-1345uxr-LazyImg eulyh3c0"
